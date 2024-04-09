@@ -1,6 +1,7 @@
 <h1 align="center">iCalories</h1>
 
 <p align="center">iCalories is a Swift-based iOS application designed to help users track their daily calorie intake. With a simple and intuitive interface, users can easily log the foods they consume and monitor their calorie consumption throughout the day.</p>
+<p align="center">˚˚˚</p>
 
 ## 📷 Screenshots
 
