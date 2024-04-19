@@ -15,6 +15,7 @@ struct AddFoodView: View {
     @State private var calories: Double = 0
     
     var body: some View {
+        Text(". . .")
         Form {
             Section {
                 TextField("Food name", text: $name)
